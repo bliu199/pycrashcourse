@@ -1,0 +1,2 @@
+# pycrashcourse
+Python training
